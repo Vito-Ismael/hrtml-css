@@ -1,0 +1,20 @@
+#### Resumo
+Neste vídeo, foi abordado o uso de pseudo-classes em CSS, apresentando exemplos práticos e explicando conceitos importantes.
+
+#### Destaques
+- 💻 Introdução ao uso de pseudo-classes em CSS
+- 👨‍🏫 Explicação sobre a aplicação do pseudo-classe :hover para mudar a cor de um elemento quando o mouse passa por cima
+- 📝 Demonstração do uso do seletor :nth-child para ocultar ou exibir elementos dentro de uma div
+- 🎓 Anúncio de que no próximo vídeo será abordado o uso dos seletores de elementos em CSS
+- 🚀 Encorajamento para a prática e exploração dos conceitos apresentados antes de avançar para o próximo vídeo.
+
+
+#### Resumo
+Neste vídeo do Curso em Vídeo de HTML e CSS, foram abordados pseudo-elementos em CSS, incluindo classes, elementos e simbologia.
+
+#### Destaques
+- 💻 Introdução aos pseudo-elementos em CSS.
+- 🎓 Explicação sobre classes, elementos e simbologia na seleção de elementos em CSS.
+- 🖥️ Exemplo prático de aplicação de pseudo-elementos em um documento HTML.
+- 📚 Demonstração da aplicação de estilos diferentes em links especiais por meio de classes.
+- 🌐 Próximo capítulo abordará tamanhos, posições, margens, bordas e acolchoamento em HTML e CSS.

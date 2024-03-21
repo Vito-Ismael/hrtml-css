@@ -1,0 +1,11 @@
+#### Resumo
+Neste capítulo, aprendemos sobre a técnica de inserção de CSS externo, que é a mais versátil para adicionar estilos aos projetos em HTML5.
+
+#### Destaques
+- 💻 A utilização de arquivos de estilo externos é mais versátil e recomendada para projetos com várias páginas.
+- 📂 A técnica de criar links para arquivos CSS permite aplicar estilos consistentes em todo o projeto.
+- 🎨 Evitar o uso de estilos inline e dar preferência ao estilo externo é a prática recomendada.
+- 📝 É possível incorporar vários links para arquivos CSS no mesmo documento HTML, proporcionando flexibilidade no estilo.
+- 🌈 No próximo capítulo, aprenderemos sobre a importância e uso de cores dentro de um site.
+
+Aproveite para fazer anotações e completar os exercícios para fixar o conteúdo!

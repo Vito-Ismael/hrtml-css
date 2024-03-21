@@ -1,0 +1,9 @@
+#### Resumo
+Neste vídeo do Curso em Vídeo HTML5 e CSS3, é abordado o uso de estilos CSS inline, apontando para suas limitações e recomendações para seu uso.
+
+#### Destaques
+- 💡 O estilo inline é uma técnica mais limitada e trabalhosa para aplicar estilos em elementos HTML.
+- 💻 A aplicação de estilos inline pode poluir o código HTML e tornar a manutenção mais complexa.
+- 🎨 O vídeo destaca a importância de separar o estilo do conteúdo no desenvolvimento web.
+- 📱 Além do estilo inline, o vídeo ressalta a necessidade de aprender outras técnicas de aplicação de estilos em CSS.
+- 🌐 O vídeo promove a continuidade dos estudos, incentivando a realização dos exercícios propostos e anunciando a solução para as limitações do estilo inline no próximo vídeo.
