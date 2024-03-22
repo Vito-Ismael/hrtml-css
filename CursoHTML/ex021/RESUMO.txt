@@ -7,3 +7,5 @@ Neste vídeo, foi abordado o modelo de caixas na prática, com foco em proprieda
 - 🔗 Demonstração de como alterar o tipo de um elemento, como transformar um elemento inline em block e vice-versa, usando a propriedade display.
 - 📐 Explicação clara sobre o funcionamento e a aplicação das propriedades de margem (margin) e como centralizar um elemento na tela.
 - 🎓 Indicação para revisitar o conteúdo do primeiro vídeo do capítulo para uma compreensão mais aprofundada, enfatizando a importância da prática e do aprendizado constante.
+
+[SITE]
